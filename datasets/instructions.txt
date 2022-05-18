@@ -1,0 +1,14 @@
+remove ranges and categoriacal data from speed dataing no issues.
+convert mushroom data to ascii
+
+speeddating-This data was gathered from participants in experimental speed dating events from 2002-2004. During the events, the attendees would have a four-minute "first date" with every other participant of the…
+28210 runs19 likes169 downloads188 reach35 impact
+8378 instances - 121 features - 2 classes - 18372 missing values
+
+sick- Attribute information: ``` sick, negative. | classes age: continuous. sex: M, F. on thyroxine: f, t. query on thyroxine: f, t. on antithyroid medication: f, t. sick: f, t. pregnant: f, t. thyroid…
+19943 runs0 likes32 downloads32 reach9 impact
+3772 instances - 30 features - 2 classes - 6064 missing values
+
+mushroom-### Description This dataset describes mushrooms in terms of their physical characteristics. They are classified into: poisonous or edible. ### Source ``` (a) Origin: Mushroom records are drawn from…
+16692 runs1 likes42 downloads43 reach13 impact
+8124 instances - 23 features - 2 classes - 2480 missing values
